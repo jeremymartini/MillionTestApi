@@ -36,6 +36,6 @@ Para facilitar la configuración, he incluido un **DbSeeder** llamado `MillionTe
     * Ahora puedes ejecutar la **API** y probarla usando **Swagger**.
     * Si lo prefieres, puedes ir directamente a la aplicación frontend.
 
-4.  **Iniciar el (Frontend)[https://github.com/jeremymartini/million-test-nextjs]:**
+4.  **Iniciar el [Frontend](https://github.com/jeremymartini/million-test-nextjs):**
     * Abre una terminal en la carpeta `"million-test-js"` y ejecuta el comando `npm run dev`.
     * Abre en tu navegador la URL que te indique la consola.
